@@ -42,6 +42,7 @@ header{
 
 .menu-list{
     position: absolute;
+    z-index: 20;
     width: 100%;
     top: 60px;
     transition: height .5s ease;
