@@ -17,6 +17,12 @@ const myProjects = [{
     pagelink: 'https://joaop-sa.github.io/analythics_card/',
     repositorylink: 'https://github.com/JoaoP-Sa/analythics_card',
     projectdescription: "Outra página que criei com base em um desafio do front end mentor, é uma página para uma empresa que trabalha com análise de dados. Utilizei html e css para criar a página."
+},{
+    id: 'project4',
+    img: 'img/intro-component.jpg',
+    pagelink: 'https://jp-intro-component.netlify.app/',
+    repositorylink: 'https://github.com/JoaoP-Sa/intro-component',
+    projectdescription: "Essa página consiste em uma tela de login de um site de cursos onde o usuário pode acompanhar outros programadores desenvolvendo seus projetos. Utilizei apenas react js e css para criar este projeto."
 }];
 
 export default myProjects;
