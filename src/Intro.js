@@ -20,7 +20,7 @@ class Intro extends React.Component{
                     </div>
 
                     <div className="titulo-cargo">
-                        <h1><strong>Programador </strong>Front End Jr</h1>
+                        <h1><strong>Desenvolvedor </strong>Front End Jr</h1>
                         <div className="subtitulo">
                             <h4>João Pedro de Sá Oliveira</h4>
                         </div>
