@@ -19,7 +19,7 @@ const myProjects = [{
     alt: 'site de empresa de análise de dados',
     pagelink: 'https://joaop-sa.github.io/analythics_card/',
     repositorylink: 'https://github.com/JoaoP-Sa/analythics_card',
-    projectdescription: "Outra página que criei com base em um desafio do front end mentor, é uma página para uma empresa que trabalha com análise de dados. Utilizei html e css para criar a página."
+    projectdescription: "Outra página que criei com base em um desafio do frontend mentor, é uma página para uma empresa que trabalha com análise de dados. Utilizei html e css para criar a página."
 },{
     id: 'project4',
     img: 'img/intro-component.jpg',
