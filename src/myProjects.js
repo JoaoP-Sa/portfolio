@@ -26,7 +26,7 @@ const myProjects = [{
     alt: 'site de página de login',
     pagelink: 'https://jp-intro-component.netlify.app/',
     repositorylink: 'https://github.com/JoaoP-Sa/intro-component',
-    projectdescription: "Essa página consiste em uma tela de login de um site de cursos onde o usuário pode acompanhar outros programadores desenvolvendo seus projetos. Utilizei apenas react js e css para criar este projeto."
+    projectdescription: "Peguei essa página em um desafio do frontend mentor, e ela consiste em uma tela de login de um site de cursos onde o usuário pode acompanhar outros programadores desenvolvendo seus projetos. Utilizei apenas react js e css para criar este projeto."
 }];
 
 export default myProjects;
