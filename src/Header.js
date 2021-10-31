@@ -12,7 +12,7 @@ class Header extends React.Component{
 
 
 //função que será convertida em objeto que fará a adição ou remoção dos caracteres na tela
-        let txtWrite = function(list){
+        let TxtWrite = function(list){
             this.list = list;
             this.isDeleting = false;
             this.writedTxt = '';
@@ -22,7 +22,7 @@ class Header extends React.Component{
 
 /*definindo nosso write como uma função e dentro dela estabelecendo as condições para que os caracteres possam
 ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
-        txtWrite.prototype.write = function(){
+        TxtWrite.prototype.write = function(){
             const myObject = this;
             const myTxt = this.list[selector];
             let wordLength = myTxt.length;
@@ -54,7 +54,7 @@ ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
             }, delay);
         }
 
-         new txtWrite(wordsList);
+         new TxtWrite(wordsList);
 
 //função que dará o efeito de pisca pisca na nossa última linha do texto na tela
         function blink(){

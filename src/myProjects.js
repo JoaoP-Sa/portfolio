@@ -1,5 +1,14 @@
-const myProjects = [{
-    id: 'project1',
+const myProjects = [
+    {
+        id: 'project1',
+        img: 'img/rcontrol.jpg',
+        alt: 'site de serviços com sistemas de segurança',
+        pagelink: 'https://rcontroltec.com/',
+        repositorylink: 'https://github.com/JoaoP-Sa/rcontrol',
+        projectdescription: "Primeiro projeto comercial que fiz, este projeto foi feito como fruto de um serviço que prestei como freelancer, e se trata de uma página que criei para uma empresa que trabalha com serviços de instalação de sistemas de segurança"
+    },
+    {
+    id: 'project2',
     img: 'img/barbershop.jpg',
     alt: 'site de barbearia',
     pagelink: 'https://barbershopfirstfreela.netlify.app/',
@@ -7,21 +16,21 @@ const myProjects = [{
     projectdescription: "Primeiro projeto que fiz por conta própria, é uma landing page com tema de barbearia que criei utilizando reactjs e possui google maps integrado."
 },
 {
-    id: 'project2',
+    id: 'project3',
     img: 'img/sunnyside.jpg',
     alt: 'site de serviços de design',
     pagelink: 'https://joaop-sa.github.io/sunnyside/',
     repositorylink: 'https://github.com/JoaoP-Sa/sunnyside',
     projectdescription: "Este link contém uma página que encontrei em um desafio do frontend mentor e decidi recriar utilizando html, css e javascript."
 },{
-    id: 'project3',
+    id: 'project4',
     img: 'img/analythics.jpg',
     alt: 'site de empresa de análise de dados',
     pagelink: 'https://joaop-sa.github.io/analythics_card/',
     repositorylink: 'https://github.com/JoaoP-Sa/analythics_card',
     projectdescription: "Outra página que criei com base em um desafio do frontend mentor, é uma página para uma empresa que trabalha com análise de dados. Utilizei html e css para criar a página."
 },{
-    id: 'project4',
+    id: 'project5',
     img: 'img/intro-component.jpg',
     alt: 'site de página de login',
     pagelink: 'https://jp-intro-component.netlify.app/',
