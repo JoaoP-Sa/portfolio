@@ -1,11 +1,11 @@
 const myProjects = [
     {
-        id: 'project1',
-        img: 'img/rcontrol.jpg',
-        alt: 'site de serviços com sistemas de segurança',
-        pagelink: 'https://rcontroltec.com/',
-        repositorylink: 'https://github.com/JoaoP-Sa/rcontrol',
-        projectdescription: "Primeiro projeto comercial que fiz, este projeto foi feito como fruto de um serviço que prestei como freelancer, e se trata de uma página que criei para uma empresa que trabalha com serviços de instalação de sistemas de segurança"
+    id: 'project1',
+    img: 'img/rcontrol.jpg',
+    alt: 'site de serviços com sistemas de segurança',
+    pagelink: 'https://rcontroltec.com/',
+    repositorylink: 'https://github.com/JoaoP-Sa/rcontrol',
+    projectdescription: "Primeiro projeto comercial que fiz, este projeto foi feito como fruto de um serviço que prestei como freelancer, e se trata de uma página que criei para uma empresa que trabalha com serviços de instalação de sistemas de segurança"
     },
     {
     id: 'project2',

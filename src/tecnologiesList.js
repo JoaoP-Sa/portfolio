@@ -23,7 +23,28 @@ const tecnologiesList = [
         alt: 'ícone reactjs',
         dimension: {
             height: "56.7%",
-            width: "56.7%"
+            width: "56.7%",
+            padding: "20px 0"
+        }
+    },
+    {
+        id: '5',
+        img: 'img/php.png',
+        alt: 'ícone php',
+        dimension: {
+            height: "56.7%",
+            width: "56.7%",
+            padding: "20px 0"
+        }
+    },
+    {
+        id: '6',
+        img: 'img/mysql.png',
+        alt: 'ícone mysql',
+        dimension: {
+            height: "56.7%",
+            width: "56.7%",
+            padding: "20px 0"
         }
     }
 ];
