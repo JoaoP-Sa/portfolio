@@ -40,11 +40,13 @@ class Intro extends React.Component{
                        novas relacionadas a tecnologia, além de buscar sempre aprimorar os conhecimentos que
                        já possuo. Comecei a cursar sistemas de informação no primeiro semestre de 2021, porém
                        já estudo e pratico desenvolvimento front end bem antes, possuindo assim uma base
-                       sólida em <strong>html</strong>, <strong>css</strong> e <strong>javascript</strong>, além
-                       de <strong>react js</strong> que acabei aprendendo posteriormente e é a tecnologia que 
-                       utilizei para criar este portfólio inclusive, busco desenvolver cada vez mais projetos e
-                       postá-los no meu github para aumentar meu repertório e adquirir cada vez mais experiência
-                       prática.
+                       sólida em <strong>html</strong>, <strong>css</strong>, <strong>javascript</strong>, 
+                       e <strong>react js</strong> que acabei aprendendo posteriormente e é a tecnologia que 
+                       utilizei para criar este portfólio inclusive, e em seguida aprendi a trabalhar 
+                       com <strong>PHP</strong> e <strong>MySql</strong>, uma vez que meu objetivo a longo prazo
+                       é me tornar um profissional em desenvolvimento web completo, e busco desenvolver cada vez
+                       mais projetos e postá-los no meu github para aumentar meu repertório e adquirir cada vez 
+                       mais experiência prática.
                     </p>
                 </div>
             </section>
