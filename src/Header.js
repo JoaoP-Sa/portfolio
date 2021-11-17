@@ -84,7 +84,7 @@ ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
                 
                 <div className="header-title">
                     <span 
-                       data-words='["Front End", "HTML", "CSS", "JavaScript", "React js"]' 
+                       data-words='["Front End", "HTML", "CSS", "JavaScript", "React js", "PHP", "MySql"]' 
                        id="insert" className="visible"></span>
                 </div>
             </header>
