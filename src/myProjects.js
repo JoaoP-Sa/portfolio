@@ -9,11 +9,11 @@ const myProjects = [
     },
     {
     id: 'project2',
-    img: 'img/barbershop.jpg',
-    alt: 'site de barbearia',
-    pagelink: 'https://barbershopfirstfreela.netlify.app/',
-    repositorylink: 'https://github.com/JoaoP-Sa/barbershop',
-    projectdescription: "Primeiro projeto que fiz por conta própria, é uma landing page com tema de barbearia que criei utilizando reactjs e possui google maps integrado."
+    img: 'img/interactive-pricing-component.jpg',
+    alt: 'site com componente de preço interativo',
+    pagelink: 'https://jp-interactive-pricing-component.netlify.app/',
+    repositorylink: 'https://github.com/JoaoP-Sa/interactive_pricing_component',
+    projectdescription: "Esta é uma página que peguei no frontend mentor, e ela consiste em um componente de preços interativo, no qual é possivel manipular através de uma barra, e existe a opção de aplicar desconto no preço caso o botão de cobrança esteja posicionado para fazer a cobrança anual."
 },
 {
     id: 'project3',
