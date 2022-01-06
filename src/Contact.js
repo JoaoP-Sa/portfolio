@@ -8,7 +8,7 @@ class Contact extends React.Component{
                     <div className="contatos-container">
                         <br /><br /><br />
                         <div className="contato-box">
-                            <a href="https://www.linkedin.com/in/jo%C3%A3o-de-s%C3%A1-oliveira-46b73018b/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin"></i></a>
+                            <a href="https://www.linkedin.com/in/joão-pedro-de-sá-oliveira-46b73018b/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin"></i></a>
                         </div>
 
                         <div className="contato-box">

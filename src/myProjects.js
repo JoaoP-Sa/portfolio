@@ -17,20 +17,28 @@ const myProjects = [
 },
 {
     id: 'project3',
+    img: 'img/gallery.jpg',
+    alt: 'site de galeria de imagens',
+    pagelink: 'https://galleryappfree.000webhostapp.com/',
+    repositorylink: 'https://github.com/JoaoP-Sa/galeria',
+    projectdescription: "Este foi o primeiro projeto com back end que eu criei, e ele consiste em uma galeria de imagens com sistema de login, criação e exclusão de contas, onde você pode utilizar sua conta para enviar imagens que deseja armazenar ou excluir imagens que você não deseja mais que estejam ali, e as imagens ficam visíveis apenas ao dono da conta ou a quem mais tiver acesso a ela. O sistema foi criado com html, css e js no front end, e no back end foram usados php e mysql."
+},
+{
+    id: 'project4',
     img: 'img/sunnyside.jpg',
     alt: 'site de serviços de design',
     pagelink: 'https://joaop-sa.github.io/sunnyside/',
     repositorylink: 'https://github.com/JoaoP-Sa/sunnyside',
     projectdescription: "Este link contém uma página que encontrei em um desafio do frontend mentor e decidi recriar utilizando html, css e javascript."
 },{
-    id: 'project4',
+    id: 'project5',
     img: 'img/analythics.jpg',
     alt: 'site de empresa de análise de dados',
     pagelink: 'https://joaop-sa.github.io/analythics_card/',
     repositorylink: 'https://github.com/JoaoP-Sa/analythics_card',
     projectdescription: "Outra página que criei com base em um desafio do frontend mentor, é uma página para uma empresa que trabalha com análise de dados. Utilizei html e css para criar a página."
 },{
-    id: 'project5',
+    id: 'project6',
     img: 'img/intro-component.jpg',
     alt: 'site de página de login',
     pagelink: 'https://jp-intro-component.netlify.app/',
