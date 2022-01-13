@@ -20,7 +20,7 @@ class Intro extends React.Component{
                     </div>
 
                     <div className="titulo-cargo">
-                        <h1><strong>Desenvolvedor </strong>Front End Jr</h1>
+                        <h1><strong>Desenvolvedor </strong>Fullstack Jr</h1>
                         <div className="subtitulo">
                             <h4>João Pedro de Sá Oliveira</h4>
                         </div>
@@ -36,15 +36,12 @@ class Intro extends React.Component{
                 </div>
 
                 <div className="mydescription">
-                    <p>Sou um programador front end de nível junior e estou constantemente aprendendo coisas
-                       novas relacionadas a tecnologia, além de buscar sempre aprimorar os conhecimentos que
-                       já possuo. Comecei a cursar sistemas de informação no primeiro semestre de 2021, porém
-                       já estudo e pratico desenvolvimento front end bem antes, possuindo assim uma base
-                       sólida em <strong>html</strong>, <strong>css</strong>, <strong>javascript</strong>, 
-                       e <strong>react js</strong>, e em seguida aprendi a trabalhar  
-                       com <strong>PHP</strong> e <strong>MySql</strong>, uma vez que meu objetivo a longo prazo
-                       é me tornar um profissional completo em desenvolvimento web, e busco desenvolver cada
-                       vez mais projetos e postá-los no meu github para aumentar meu repertório e adquirir cada
+                    <p>Sou um desenvolvedor fullstack nível junior e estou constantemente aprendendo coisas
+                       novas relacionadas a desenvolvimento web, além de buscar sempre aprimorar os conhecimentos que
+                       já possuo. Possuo conhecimentos sólidos em <strong>html</strong>, <strong>css</strong>, <strong>javascript</strong>
+                       , <strong>react js</strong>, <strong>PHP</strong> e <strong>MySql</strong>, 
+                       e meu objetivo a longo prazo é me tornar um profissional completo em desenvolvimento web, e busco desenvolver 
+                       cada vez mais projetos e postá-los no meu github para aumentar meu repertório e adquirir cada
                        vez mais experiência prática.
                     </p>
                 </div>
