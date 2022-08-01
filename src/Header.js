@@ -67,7 +67,7 @@ ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
     render(){
         return(
             <header>
-                <img className="header-wallpaper" src="img/programmingWallPaper.jpg" alt="header background" />
+                <img className="header-wallpaper" src="img/programmingWallpaper.jpg" alt="header background" />
                 
                 <div className="menu">
                     <ul>
@@ -84,7 +84,17 @@ ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
                 
                 <div className="header-title">
                     <span 
-                       data-words='["Fullstack", "HTML", "CSS", "JavaScript", "React js", "PHP", "MySql"]' 
+                       data-words='[
+                                    "Front End", 
+                                    "HTML", 
+                                    "CSS", 
+                                    "JavaScript",
+                                    "Typescript",
+                                    "Angular", 
+                                    "React js", 
+                                    "PHP", 
+                                    "MySql"
+                                ]' 
                        id="insert" className="visible"></span>
                 </div>
             </header>

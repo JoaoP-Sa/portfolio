@@ -9,7 +9,7 @@ class Tecnologies extends React.Component{
             <section className="tec-section" id="tecnologies">
                 <div className="tec-card">
                     <div className="card-title">
-                        <h1>Tecnologias que Utilizo</h1>
+                        <h1>Tecnologias que possuo conhecimento</h1>
                     </div>
 
                     <div className="tec-container">
