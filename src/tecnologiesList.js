@@ -50,7 +50,7 @@ const tecnologiesList = [
     {
         id: '7',
         img: 'img/docker.png',
-        alt: 'ícone angular',
+        alt: 'ícone docker',
         dimension: {
             height: "45%",
             width: "45%",
