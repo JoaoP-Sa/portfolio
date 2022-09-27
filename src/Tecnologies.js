@@ -17,8 +17,8 @@ class Tecnologies extends React.Component{
                                 <ItemBox key={item.id}
                                          name={item.name}
                                          img={item.img}
-                                         height={item.height}
-                                         dimension={item.dimension} />
+                                         height={item.height} 
+                                />
                         ))}
                     </div>
                 </div>
