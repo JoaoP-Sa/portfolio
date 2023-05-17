@@ -89,11 +89,10 @@ ser inseridos ou removidos da tela, e o intervalo no qual isso irá acontecer*/
                                     "HTML", 
                                     "CSS", 
                                     "JavaScript",
-                                    "Typescript",
+                                    "TypeScript",
                                     "Angular", 
-                                    "React js", 
-                                    "PHP", 
-                                    "MySql"
+                                    "React js",
+                                    "Vue js"
                                 ]' 
                        id="insert" className="visible"></span>
                 </div>

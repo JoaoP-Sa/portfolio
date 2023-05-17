@@ -36,13 +36,14 @@ class Intro extends React.Component{
                 </div>
 
                 <div className="mydescription">
-                    <p>Sou um desenvolvedor Front End nível júnior, já atuo na área, e estou constantemente aprendendo coisas
-                       novas relacionadas a desenvolvimento web, além de buscar sempre aprimorar os conhecimentos que
-                       já possuo. Possuo conhecimentos sólidos em <strong>html</strong>, <strong>css</strong>, <strong>javascript</strong>
-                       , <strong>typescript</strong>, <strong>angular</strong> e <strong>react js</strong>,
-                       e meu objetivo a longo prazo é me tornar um profissional completo em desenvolvimento web, embora eu
-                       possua um foco maior no front end, e busco desenvolver cada vez mais projetos e postá-los no meu github para aumentar 
-                       meu repertório e adquirir cada vez mais experiência prática.
+                    <p>Sou um desenvolvedor Front End nível júnior, tenho mais de 1 ano de atuação na área, e estou 
+                       constantemente aprendendo coisas novas relacionadas a desenvolvimento web, além de buscar sempre 
+                       aprimorar os conhecimentos que já possuo. Possuo conhecimentos sólidos em <strong>HTML</strong>
+                       , <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Typescript</strong>
+                       , <strong>Angular</strong>, <strong>React js</strong> e <strong>Vue js</strong>,
+                       e meu objetivo a longo prazo é me tornar um profissional fullstack, embora eu
+                       possua um foco maior no front end, e busco desenvolver cada vez mais projetos e postá-los no meu github 
+                       para aumentar meu repertório e adquirir cada vez mais experiência prática.
                     </p>
                 </div>
             </section>
