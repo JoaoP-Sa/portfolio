@@ -14,10 +14,10 @@ class Tecnologies extends React.Component{
 
                     <div className="tec-container">
                         {tecnolist.map((item) => (
-                                <ItemBox key={item.id}
-                                         name={item.name}
-                                         img={item.img}
-                                         height={item.height} 
+                                <ItemBox key={ item.id }
+                                         name={ item.name }
+                                         img={ item.img }
+                                         height={ item.height } 
                                 />
                         ))}
                     </div>
@@ -31,7 +31,7 @@ function ItemBox(props){
     return(
         <div className="item-box">
             <div className="icon">
-                <img src={props.img} alt={props.alt} style={props.dimension} />    
+                <img src={props.img} alt={props.alt} style={props.dimension} title={props.name} />    
             </div>
         </div>
     );

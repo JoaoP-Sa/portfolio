@@ -20,7 +20,7 @@ class Intro extends React.Component{
                     </div>
 
                     <div className="titulo-cargo">
-                        <h1><strong>Desenvolvedor </strong>Front End Jr</h1>
+                        <h1><strong>Desenvolvedor </strong> Web</h1>
                         <div className="subtitulo">
                             <h4>João Pedro de Sá Oliveira</h4>
                         </div>
@@ -36,7 +36,7 @@ class Intro extends React.Component{
                 </div>
 
                 <div className="mydescription">
-                    <p>Sou um desenvolvedor Front End nível júnior, tenho mais de 1 ano de atuação na área, e estou 
+                    <p>Sou um desenvolvedor nível júnior, tenho mais de 1 ano de atuação na área, e estou 
                        constantemente aprendendo coisas novas relacionadas a desenvolvimento web, além de buscar sempre 
                        aprimorar os conhecimentos que já possuo. Possuo conhecimentos sólidos em <strong>HTML</strong>
                        , <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Typescript</strong>
