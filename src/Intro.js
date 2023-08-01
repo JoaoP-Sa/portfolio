@@ -40,10 +40,12 @@ class Intro extends React.Component{
                        constantemente aprendendo coisas novas relacionadas a desenvolvimento web, além de buscar sempre 
                        aprimorar os conhecimentos que já possuo. Possuo conhecimentos sólidos em <strong>HTML</strong>
                        , <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Typescript</strong>
-                       , <strong>Angular</strong>, <strong>React js</strong> e <strong>Vue js</strong>,
-                       e meu objetivo a longo prazo é me tornar um profissional fullstack, embora eu
-                       possua um foco maior no front end, e busco desenvolver cada vez mais projetos e postá-los no meu github 
-                       para aumentar meu repertório e adquirir cada vez mais experiência prática.
+                       , <strong>Angular</strong>, <strong>React js</strong> ,<strong>Vue js</strong>
+                       , <strong>PHP</strong>, <strong>MySQL</strong>, <strong>Laravel</strong>, e nas
+                       demais tecnologias mencionadas abaixo, e meu objetivo a longo prazo é me tornar um 
+                       profissional fullstack, embora eu possua um foco maior no front end, e busco desenvolver 
+                       cada vez mais projetos e postá-los no meu github  para aumentar meu repertório e adquirir cada 
+                       vez mais experiência prática.
                     </p>
                 </div>
             </section>
