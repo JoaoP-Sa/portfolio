@@ -36,16 +36,17 @@ class Intro extends React.Component{
                 </div>
 
                 <div className="mydescription">
-                    <p>Sou um desenvolvedor nível júnior, tenho mais de 1 ano de atuação na área, e estou 
-                       constantemente aprendendo coisas novas relacionadas a desenvolvimento web, além de buscar sempre 
-                       aprimorar os conhecimentos que já possuo. Possuo conhecimentos sólidos em <strong>HTML</strong>
-                       , <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Typescript</strong>
-                       , <strong>Angular</strong>, <strong>React js</strong> ,<strong>Vue js</strong>
-                       , <strong>PHP</strong>, <strong>MySQL</strong>, <strong>Laravel</strong>, e nas
-                       demais tecnologias mencionadas abaixo, e meu objetivo a longo prazo é me tornar um 
-                       profissional fullstack, embora eu possua um foco maior no front end, e busco desenvolver 
-                       cada vez mais projetos e postá-los no meu github  para aumentar meu repertório e adquirir cada 
-                       vez mais experiência prática.
+                    <p>
+                        Sou um desenvolvedor web com quase 2 anos de atuação
+                        na área, e estou constantemente aprendendo coisas novas 
+                        relacionadas a minha área de atuação, além de buscar 
+                        sempre aprimorar os conhecimentos que já possuo. Posso 
+                        prestar serviços de criação e manutenção de aplicações web, 
+                        portfólios e landing pages, além de poder ajudar com a 
+                        hospedagem e a configuração destes mesmos sistemas. 
+                        Caso precise de algo sinta-se livre para entrar em contato 
+                        comigo e expressar sua necessidade pelo meu email 
+                        disponibilizado no rodapé da página ^^.
                     </p>
                 </div>
             </section>
