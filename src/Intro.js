@@ -37,8 +37,8 @@ class Intro extends React.Component{
 
                 <div className="mydescription">
                     <p>
-                        Sou um desenvolvedor web com quase 2 anos de atuação
-                        na área, e estou constantemente aprendendo coisas novas 
+                        Sou um desenvolvedor web com + de 3 anos de atuação
+                        na área, e procuro constantemente aprender coisas novas 
                         relacionadas a minha área de atuação, além de buscar 
                         sempre aprimorar os conhecimentos que já possuo. Posso 
                         prestar serviços de criação e manutenção de aplicações web, 
